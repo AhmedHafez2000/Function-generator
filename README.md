@@ -10,7 +10,8 @@ The **ICL7660S voltage converter IC** was not available, so we used the **MT3608
 Another MT3608 was used as a normal **step-up** circuit to supply the main voltage of 12 volts. 
 
 The design inspired by a Chinese kit with following schematic:
-![](https://github.com/AhmedHafez2000/Function-generator/blob/main/Schematic/ICL8038-function-generator-kit.jpg?raw=true)
+
+![](https://github.com/AhmedHafez2000/Function-generator/blob/main/Schematic/ICL8038-function-generator-kit.JPG?raw=true)
 ![](https://github.com/AhmedHafez2000/Function-generator/blob/main/Photos/Kit.jpg?raw=true)
 
 This circuit can be fabricated in home a printable file is attached in PCB folder.
